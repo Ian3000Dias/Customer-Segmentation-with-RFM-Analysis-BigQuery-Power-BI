@@ -15,4 +15,3 @@ A fully automated, behaviour-based customer segmentation pipeline built on Googl
 
 <img width="1452" height="758" alt="image" src="https://github.com/user-attachments/assets/2aa75474-cb33-4e2b-b274-bf9436c3f3ee" />
 
-Data Link <link href="https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sproject-4a415ad8-b17d-4efd-a43!2ssales!3srfm_segments_final">link</link>
